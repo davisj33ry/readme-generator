@@ -1,5 +1,22 @@
 {
   "dependencies": {
-    "inquirer": "^9.1.4"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "name": "readme-generator",
+  "description": "generate README.md file",
+  "version": "1.0.0",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davisj33ry/readme-generator.git"
+  },
+  "author": "Jerry Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davisj33ry/readme-generator/issues"
+  },
+  "homepage": "https://github.com/davisj33ry/readme-generator#readme"
 }
