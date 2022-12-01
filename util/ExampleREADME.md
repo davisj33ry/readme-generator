@@ -1,4 +1,4 @@
-# Tes 
+# This is a really cool project!
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
   * [Description](#description)
@@ -8,16 +8,16 @@
   * [License](#license)
 
   ## Description
-  yes
+  The making of the best project ever. It's a README.md file generator. 
 
   ## Installation
-  yes
+  You just have to run it via node. 
 
   ## Usage
-  yes
+  really just run it. 
 
   ## Credits
-  yes
+  me, myself, and i
   
   ## License
 
